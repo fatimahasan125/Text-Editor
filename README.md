@@ -12,7 +12,7 @@ Moving the cursor
 
 A doubly linked list contains all the letters, punctuation and spaces in the text. This is used to move the cursor between words and adding words between nodes of the list. The interface of the application is shown below: 
 
-![Level3](https://github.com/fatimahasan125/Text-Editor/blob/main/editor_screenshot/editor.png?raw=true)
+![editor](https://github.com/fatimahasan125/Text-Editor/blob/main/editor_screenshot/editor.png?raw=true)
 
 
 ## How to run the project
